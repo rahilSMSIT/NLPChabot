@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^5.1.0",
+    "multer": "^1.4.5-lts.2",
+    "whisper": "^0.2.5"
+  },
+  "name": "stv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
